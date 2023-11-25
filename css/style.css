@@ -99,7 +99,7 @@ footer {
 }
 
 /* responsive */
-@media screen and (max-width: 100rem){
+@media screen and (max-width: 80.0rem){
     .container, 
     .image-container, .text-container{
         display: block;
